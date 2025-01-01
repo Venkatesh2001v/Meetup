@@ -1,4 +1,4 @@
-The goal of this coding exam is to quickly get you off the ground with **React Context**.
+The goal of this coding practice is to quickly get you off the ground with **React Context**.
 
 ### Refer to the image below:
 
@@ -123,7 +123,4 @@ The app must have the following functionalities
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
+Keep All components in the `src/components` directory.
